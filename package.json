@@ -1,0 +1,6 @@
+{
+  "name": "@purpleow1/feature-flags-npm",
+  "version": "1.0.0",
+  "description": "Feature flags",
+  "main": "index.js"
+}
